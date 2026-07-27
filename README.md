@@ -8,9 +8,9 @@
 
 <br>
 
-### *"We leave a trail — every prototype teaches us something for the next one."*
+### *"We leave a trail - every prototype teaches us something for the next one."*
 
-**Paper Trail Development** is an indie game dev team working across multiple engines — Unity, custom C++ frameworks, and whatever the project calls for. We favor tight scope, tactile combat feel, and systems that are fun to break.
+**Paper Trail Development** is an indie game dev team working across multiple engines - Unity, custom C++ frameworks, and whatever the project calls for. We favor tight scope, tactile combat feel, and systems that are fun to break.
 
 </div>
 
@@ -36,7 +36,7 @@
 
 ## 🧪 In the Pipeline
 
-*More prototypes on the way — this section grows as they leave the paper stage.*
+*More prototypes on the way - this section grows as they leave the paper stage.*
 
 ---
 
