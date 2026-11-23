@@ -14,8 +14,7 @@
 
 *More prototypes are on the way. This section grows as they leave the paper stage.*
 
-<details>
-<summary><h2>🎮 Games</h2></summary>
+## 🎮 Games
 
 - **🕹️ [RogueBit](https://github.com/Stiven-Gjekaj/RogueBit)** · Seeded, turn-based ASCII roguelike with shadowcasting FOV and A* pathfinding · `C#` `.NET` `SadConsole` `v0.3-alpha`
 - **🃏 [Balatro4S](https://github.com/Stiven-Gjekaj/balatro4S)** · Fan demake of Balatro for a jailbroken iPhone 4S, rewritten in C with OpenGL ES, using your own copy's assets · `C` `Objective-C` `OpenGL ES` `v1.0`
@@ -25,26 +24,17 @@
 - **⚽ [Star Soccer Rebooted](https://github.com/Stiven-Gjekaj/StarSoccerRebooted)** · Fan remake of New Star Soccer for iOS, Android, macOS, Windows, and Linux, using your own copy's assets · `C` `SDL3` `v1.0.3`
 - **🦇 [DLGE Player](https://github.com/Stiven-Gjekaj/DLGEPlayer)** · Open-source player for Diabolik Lovers Grand Edition on desktop and mobile, from your own copy of the game · `Rust` `Godot` `v1.0`
 
-</details>
-
-<details>
-<summary><h2>⏸️ On Hold</h2></summary>
+## ⏸️ On Hold
 
 - **⚔️ [Soulbound](https://github.com/Stiven-Gjekaj/Soulbound)** · Boss-rush game built on a heavily modified, battle-only CYF · `C#` `Unity` `Lua`
 
-</details>
-
-<details>
-<summary><h2>🤝 The Team</h2></summary>
+## 🤝 The Team
 
 - **🧑‍💻 [Stiven Gjekaj](https://github.com/Stiven-Gjekaj)** · Developer
 
 Small crew, multi-engine mindset. Reach out if you want to collaborate or playtest.
 
-</details>
-
-<details>
-<summary><h2>⚡ Engines &amp; Tools</h2></summary>
+## ⚡ Engines & Tools
 
 <div align="center">
 
@@ -61,8 +51,6 @@ Small crew, multi-engine mindset. Reach out if you want to collaborate or playte
 <img src="https://raw.githubusercontent.com/Stiven-Gjekaj/Stiven-Gjekaj/main/assets/papertrail/tools.svg" alt="Blender, Git, Trello, Xcode, Theos" />
 
 </div>
-
-</details>
 
 <div align="center">
 
